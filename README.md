@@ -74,10 +74,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhiydv07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=abhiydv07&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiydv07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhiydv07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://streak-stats.demolab.com/?user=abhiydv07&theme=tokyonight&hide_border=true" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiydv07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
@@ -99,15 +99,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Stack | Link |
-|---|---|---|
-| 🤖 AI Resume Analyzer | React · Node.js · Claude API | Coming Soon |
-| 🏥 Electronic Health Record System | Python · Pandas · Scikit-learn | [View Repo](https://github.com/abhiydv07) |
-| 🛒 E-Commerce Website | React · JavaScript · Firebase | [View Repo](https://github.com/abhiydv07) |
-| 📋 Job Application Tracker | React · Node.js · MongoDB | Coming Soon |
-| 💬 Real-Time Chat App | React · Socket.io · Node.js | Coming Soon |
 
 ---
 
