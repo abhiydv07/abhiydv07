@@ -70,7 +70,27 @@
 
 ---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <table align="center" style="border: none; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <td align="center" style="border: none; background: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhiydv07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiydv07&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr style="border: none; background: transparent;">
+      <td align="center" colspan="2" style="border: none; background: transparent;">
+        <img src="https://streak-stats.demolab.com/?user=abhiydv07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 📄 Research Publication
 
