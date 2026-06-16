@@ -1,40 +1,37 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C8A96E&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Abhishek+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%26+ML+Engineer;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Data+Science;Open+to+Work+%E2%80%94+Let's+Build+Something!)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=PROGRAMMING&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Hi 👋, I'm Abhishek Yadav&descAlignY=65&descAlign=50" width="100%" />
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```yaml
-Name     : Abhishek Kumar
-Role     : Full Stack Developer & ML Engineer
-Location : India 🇮🇳
-Status   : Open to Work — Full-time & Remote roles
-```
-
-- 🎓 B.Tech in **Information Technology** — Sharda University (2025)
-- 💼 Ex **Data Science Intern** @ YBI Foundation — Pandas, NumPy, EDA pipelines
-- 📄 **Published Researcher** — Blockchain-based EHR Systems · IJRTI · Paper ID: G122350
-- 🔭 Currently building → **AI Resume Analyzer** · **Job Application Tracker** · **Real-Time Chat App**
-- 🌱 Currently learning → **DSA on LeetCode** · **System Design** · **TypeScript** · **MongoDB**
-- 💬 Ask me about → React, Node.js, Python, Machine Learning, Data Science, Blockchain
-- ⚡ Fun fact → I published a research paper before landing my first dev job
-
----
-
-## 🌐 Socials
+<br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-478688371)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiyadav854184@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiydv07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C8A96E?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiydv07.vercel.app/)
-
+  <img src="https://komarev.com/ghpvc/?username=abhiydv07&color=0e75b6&style=flat-square&label=Profile+Views" alt="abhiydv07" />
 </div>
+
+<br/>
+
+<div align="left">
+  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="450" />
+
+  **UG at Sharda University | Data Science Enthusiast | Exploring AI and Full Stack Web Dev**
+  <br/>
+  <br/>
+
+  - 🔭 I’m currently building **AI Resume Analyzer** & **Job Application Tracker**
+  - 🌱 I’m currently learning **DSA on LeetCode**, **System Design**, & **TypeScript**
+  - 💬 Ask me about **React, Node.js, Python, Machine Learning**
+  - 📫 How to reach me: [abhiyadav854184@gmail.com](mailto:abhiyadav854184@gmail.com)
+  - ⚡ Fun fact: **I published a research paper before landing my first dev job!**
+  
+  <br/>
+  
+  ### 🤝 Connect with me:
+  <a href="https://linkedin.com/in/abhishek-kumar-478688371"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/abhiydv07"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://abhiydv07.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C8A96E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+
+<br clear="both"/>
 
 ---
 
@@ -128,15 +125,5 @@ Status   : Open to Work — Full-time & Remote roles
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=abhiydv07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=abhiydv07&color=c8a96e&style=flat-square&label=Profile+Views)
-
-*⭐ If you find my work interesting, consider starring my repos!*
 
 </div>
