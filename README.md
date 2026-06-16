@@ -70,18 +70,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhiydv07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://streak-stats.demolab.com/?user=abhiydv07&theme=tokyonight&hide_border=true" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiydv07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
----
 
 ## 📄 Research Publication
 
@@ -101,12 +90,4 @@
 
 
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=abhiydv07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
