@@ -1,35 +1,26 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=PROGRAMMING&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Hi 👋, I'm Abhishek Yadav&descAlignY=65&descAlign=50" width="100%" />
-</div>
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
+<h3 align="center">Full Stack Developer & ML Engineer | Data Science Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiydv07&label=Profile%20views&color=0e75b6&style=flat" alt="abhiydv07" /> </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiydv07&color=0e75b6&style=flat-square&label=Profile+Views" alt="abhiydv07" />
-</div>
+- 🔭 I’m currently building **AI Resume Analyzer & Job Application Tracker**
 
-<br/>
+- 🌱 I’m currently learning **DSA on LeetCode, System Design, & TypeScript**
 
-<div align="left">
-  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="450" />
+- 💬 Ask me about **React, Node.js, Python, Machine Learning**
 
-  **UG at Sharda University | Data Science Enthusiast | Exploring AI and Full Stack Web Dev**
-  <br/>
-  <br/>
+- 📫 How to reach me **abhiyadav854184@gmail.com**
 
-  - 🔭 I’m currently building **AI Resume Analyzer** & **Job Application Tracker**
-  - 🌱 I’m currently learning **DSA on LeetCode**, **System Design**, & **TypeScript**
-  - 💬 Ask me about **React, Node.js, Python, Machine Learning**
-  - 📫 How to reach me: [abhiyadav854184@gmail.com](mailto:abhiyadav854184@gmail.com)
-  - ⚡ Fun fact: **I published a research paper before landing my first dev job!**
-  
-  <br/>
-  
-  ### 🤝 Connect with me:
-  <a href="https://linkedin.com/in/abhishek-kumar-478688371"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/abhiydv07"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://abhiydv07.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C8A96E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</div>
+- ⚡ Fun fact **I published a research paper before landing my first dev job!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhishek-kumar-478688371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiydv07" height="30" width="40" /></a>
+<a href="https://github.com/abhiydv07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhiydv07" height="30" width="40" /></a>
+<a href="https://abhiydv07.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-C8A96E?style=for-the-badge&logo=vercel&logoColor=white" alt="abhiydv07" height="30" /></a>
+</p>
 
 <br clear="both"/>
 
